@@ -1,0 +1,13 @@
+import React from "react"
+import styles from "./content.module.css"
+
+export default function Interests() {
+    return (
+        <main className={styles.main}>
+            <h2 className={styles.title}>Interests</h2>
+            <p className={styles.content}>
+                Test
+            </p>
+        </main>
+    )
+}
