@@ -6,7 +6,7 @@ export default function Interests() {
         <main className={styles.main}>
             <h2 className={styles.title}>Interests</h2>
             <p className={styles.content}>
-                Test
+                Web development, marketing and advertising, gaming, project management, and lots of coffee. 
             </p>
         </main>
     )

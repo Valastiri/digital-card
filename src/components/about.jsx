@@ -7,7 +7,7 @@ export default function About() {
             <h2 className={styles.title}>About</h2>
             <p className={styles.content}>
                 I originally joined the FlyByWire organization as part of the Media Team.
-                Alongside my marketing responsibilities, I also now manage our supporting documentation
+                Alongside marketing, I also now manage our supporting documentation
                 to assist our end-users and provide a knowledge base for all flight sim enthusiasts.
             </p>
         </main>
