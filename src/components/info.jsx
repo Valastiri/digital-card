@@ -12,7 +12,7 @@ export default function Info() {
             <div className={styles.infobox}>
                 <h1 className={styles.name}>Valastiri</h1>
                 <p className={styles.title}>Marketing</p>
-                <p className={styles.title}>Documents Maintainer</p>
+                <p className={styles.title}>Docs Site Maintainer</p>
                 <div className={styles.contacts}>
                     <a
                         target="_blank"
